@@ -1,9 +1,8 @@
-# collectionbuilder-gh
+# The Beregovski Collection
 
-A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
-
+The Beregovski project allows for a 
 - a CSV of collection metadata
-- a folder of JPEG images or PDF documents
+- a folder of musical examples, here presented as png files
 
 Gather your digital objects together and create your metadata using the [CollectionBuilder-GH Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/edit?usp=sharing). 
 Then click the green "use this template" button above to create your repository, add your metadata and configure the repository to fit your collection and settings.
